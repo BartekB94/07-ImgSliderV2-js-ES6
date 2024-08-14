@@ -6,6 +6,7 @@ Write sth nice ;) Contact me via: <a href="mailto:wurir1994@gmail.com">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
       </a>
 
+
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
